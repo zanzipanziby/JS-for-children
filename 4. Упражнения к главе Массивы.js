@@ -1,7 +1,7 @@
 //1. Изощренные дразнилки
 let firstRandomWord = ['рот', 'глаз', 'нос'];
-let secondRandomWord = ['тупой', 'кривой', 'блядский', 'уёбищный'];
-let thirdRandomWord = ['лапа', 'ухо', 'спина', 'хуй'];
+let secondRandomWord = ['тупой', 'кривой', 'гипертрофированный', 'имбицильный'];
+let thirdRandomWord = ['лапа', 'ухо', 'спина', 'глаз'];
 let fourRandomWord = ['жирафа', 'слона', 'коня', 'собаки'];
 
 let firstWord = firstRandomWord[Math.floor(Math.random() * firstRandomWord.length)];
