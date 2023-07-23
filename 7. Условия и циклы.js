@@ -47,10 +47,10 @@ if (lemonChiken) {
 //Если не указать else и не одно из условий не даёт true - ничего выполнено не будет.
 
 //ЗАДАЧА
-let herName = 'Dima';
-if (herName === 'Liza') {
+let herName = 'Lena';
+if (herName === 'Sveta') {
     console.log('Hello ' + herName);
-} else if (herName === 'Aleksey') {
+} else if (herName === 'Albina') {
     console.log('Hello ' + herName);
 } else if (herName === 'Lena') {
     console.log('Hello ' + herName);
