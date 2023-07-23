@@ -86,7 +86,7 @@ console.log(usAge);
 let childAge = 11;
 let accompanied = true;
 
-let goToCimema = childAge >= 11 || accompanied;
+let goToCimema = childAge >= 12 || accompanied;
 console.log('Кинотеатр');
 console.log(goToCimema);
 
