@@ -22,6 +22,7 @@ console.log(veryLongSting.toUpperCase());
 console.log(veryLongSting.toLowerCase());
 
 
+
 //Задача 1 - привести строку к нормальному виду с первой заглавной буквой
 let myMadString = 'эЙ кАк ДеЛа';
 let myNormString = myMadString[0].toUpperCase() + myMadString.slice(1).toLowerCase();
