@@ -7,6 +7,7 @@ console.log(animals);
 
 
 //Генератор лучайных строк
+
 let alfabet = 'абвгдеёжзийклмнопрстуфхцчшщъыьэюя';
 let randomString = '';
 let stringLength = 6;
