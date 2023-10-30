@@ -25,6 +25,7 @@ if (hisName.length > 6) {
 }
 
 //Цепочка из конструкций if...else
+
 let lemonChiken = false;
 let beefWithBlackBean = false;
 let sweetAndSourPork = false;
