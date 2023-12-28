@@ -24,7 +24,6 @@ while (finalWordLength > 0 && guesses > 0) {
                 finalWordLength--;
             }
         }
-
     }
 
 }
