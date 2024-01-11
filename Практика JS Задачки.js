@@ -5,4 +5,5 @@ let randomFirstWord = firstWord[Math.floor(Math.random(firstWord) * firstWord.le
 let randomSecondWord = secondWord[Math.floor(Math.random(secondWord) * secondWord.length)];
 let randomThirdWord = thirdWord[Math.floor(Math.random(thirdWord) * thirdWord.length)];
 let randomWord = 'У тебя ' + randomFirstWord + ' как ' + randomSecondWord + ' ' + randomThirdWord + '!';
+
 console.log(randomWord);
